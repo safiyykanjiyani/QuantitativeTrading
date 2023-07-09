@@ -1,1 +1,1 @@
-# QuantitativeTrading
+# Sin Stock Lobbying
