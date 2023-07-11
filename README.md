@@ -1,1 +1,1 @@
-# Sin Stock Lobbying
+# Stock Lobbying
