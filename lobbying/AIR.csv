@@ -1,0 +1,10 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+AIR,AAR CORP,manufacturing and repair,US,2022,Q2,https://lda.senate.gov/filings/public/filing/ac95ff57-0e44-4cd8-b7fa-474e4963c12a/print/,10000,,,,52443,401106802,401106802-52443,
+AIR,AAR CORP,manufacturing and repair,US,2022,Q3,https://lda.senate.gov/filings/public/filing/9efef5f0-38f3-42ff-a07b-5b4410d1e93f/print/,30000,,,,52443,401106802,401106802-52443,
+AIR,AAR CORP,manufacturing and repair,US,2022,Q4,https://lda.senate.gov/filings/public/filing/ab30db87-1478-492e-b870-8a2b62045c34/print/,30000,,,,52443,401106802,401106802-52443,
+AIR,AAR CORP.,,US,2022,Q2,https://lda.senate.gov/filings/public/filing/66cb407f-07ff-498d-9c55-d436ba9455e9/print/,,240000,,,191750,400493429,400493429-191750,400493429
+AIR,AAR CORP.,,US,2022,Q3,https://lda.senate.gov/filings/public/filing/a6d5b58c-5e5c-4e36-b66d-c17f30bb2798/print/,,200000,,,191750,400493429,400493429-191750,400493429
+AIR,AAR CORP.,,US,2022,Q4,https://lda.senate.gov/filings/public/filing/43ab7ee0-4b22-4c35-8c0a-c860ab3ac341/print/,,220000,,,191750,400493429,400493429-191750,400493429
+AIR,AAR CORP.,Aviation service and support,US,2022,Q2,https://lda.senate.gov/filings/public/filing/8199fda0-0153-420d-8ef1-2d9542caec3e/print/,50000,,,,211408,400348604,400348604-211408,40342
+AIR,AAR CORP.,Aviation service and support,US,2022,Q3,https://lda.senate.gov/filings/public/filing/68c9a855-cb08-48c7-bafd-ee3a7bfc12be/print/,50000,,,,211408,400348604,400348604-211408,40342
+AIR,AAR CORP.,Aviation service and support,US,2022,Q4,https://lda.senate.gov/filings/public/filing/65d5a5ee-ecab-45c5-bcfa-5f005886c616/print/,50000,,,,211408,400348604,400348604-211408,40342

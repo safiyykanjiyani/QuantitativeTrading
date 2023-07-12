@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+HY,"HYSTER-YALE MATERIALS HANDLING, INC.",manufacturing,US,2022,Q2,https://lda.senate.gov/filings/public/filing/6ee05a2b-a830-41eb-b710-70f040c27022/print/,50000,,,,205277,401103565,401103565-205277,401103565
+HY,"HYSTER-YALE MATERIALS HANDLING, INC.",manufacturing,US,2022,Q3,https://lda.senate.gov/filings/public/filing/d7c8fe13-acae-4949-b631-afd807af6506/print/,50000,,,,205277,401103565,401103565-205277,401103565
+HY,"HYSTER-YALE MATERIALS HANDLING, INC.",manufacturing,US,2022,Q4,https://lda.senate.gov/filings/public/filing/ec1a0979-d5b4-485c-98cd-f5190551d1fe/print/,50000,,,,205277,401103565,401103565-205277,401103565
