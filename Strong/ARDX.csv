@@ -1,0 +1,7 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+ARDX,"ARDELYX, INC.",Pharmaceutical manufacturer,US,2022,Q2,https://lda.senate.gov/filings/public/filing/d871c9df-c8f4-458f-a8af-ba3c76d9c35c/print/,30000,,,,52289,400534596,400534596-52289,
+ARDX,"ARDELYX, INC.",Pharmaceutical manufacturer,US,2022,Q3,https://lda.senate.gov/filings/public/filing/403b0f6f-71f1-4bdc-83c8-9c67c2c4a042/print/,50000,,,,52289,400534596,400534596-52289,
+ARDX,"ARDELYX, INC.",Pharmaceutical manufacturer,US,2022,Q4,https://lda.senate.gov/filings/public/filing/1d0a9e96-6702-4e21-a927-510efb5d9f36/print/,50000,,,,52289,400534596,400534596-52289,
+ARDX,"ARDELYX, INC.",Biopharmaceutical company,US,2022,Q2,https://lda.senate.gov/filings/public/filing/6f9418a6-2be6-4e0d-9767-e707dd2d2bd9/print/,30000,,,,153968,46038,46038-153968,34381
+ARDX,"ARDELYX, INC.",Biopharmaceutical company,US,2022,Q3,https://lda.senate.gov/filings/public/filing/f3f1591d-8a0e-46e7-88c7-4d78fe746ef1/print/,30000,,,,153968,46038,46038-153968,34381
+ARDX,"ARDELYX, INC.",Biopharmaceutical company,US,2022,Q4,https://lda.senate.gov/filings/public/filing/d27120cb-35d0-4fa7-a53d-61f922ae63b3/print/,30000,,,,153968,46038,46038-153968,34381

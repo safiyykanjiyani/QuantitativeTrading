@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+SWBI,"SMITH & WESSON BRANDS, INC.",American manufacturer of firearms.,US,2022,Q2,https://lda.senate.gov/filings/public/filing/2d510f3a-41f7-41a1-8212-a18e934c6b0b/print/,45000,,,,209387,401103471,401103471-209387,401103471
+SWBI,"SMITH & WESSON BRANDS, INC.",American manufacturer of firearms.,US,2022,Q3,https://lda.senate.gov/filings/public/filing/8babb5aa-ba0c-4ad1-8923-a6b9a675f46c/print/,45000,,,,209387,401103471,401103471-209387,401103471
+SWBI,"SMITH & WESSON BRANDS, INC.",American manufacturer of firearms.,US,2022,Q4,https://lda.senate.gov/filings/public/filing/421a17b2-e33f-4f54-810c-73a11b9aa7ed/print/,45000,,,,209387,401103471,401103471-209387,401103471

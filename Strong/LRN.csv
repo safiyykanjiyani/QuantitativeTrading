@@ -1,0 +1,10 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+LRN,K12 INC.,Higher education,US,2022,Q2,https://lda.senate.gov/filings/public/filing/5cd39331-6185-43d5-9170-72b56e9f3f06/print/,5000,,,,185769,316217,316217-185769,39270
+LRN,K12 INC.,Higher education,US,2022,Q3,https://lda.senate.gov/filings/public/filing/4fdd581e-7fd7-4112-91da-7aa5da84f4e7/print/,5000,,,,185769,316217,316217-185769,39270
+LRN,K12 INC.,Higher education,US,2022,Q4,https://lda.senate.gov/filings/public/filing/6a7937f6-138a-4807-82e1-8d47dad6aed6/print/,5000,,,,185769,316217,316217-185769,39270
+LRN,"POTOMAC STRATEGIC ON BEHALF OF K12, INC",Government Affairs,US,2022,Q2,https://lda.senate.gov/filings/public/filing/d6e6ac3a-1965-460f-8286-60195358d933/print/,5000,,,,191827,400493435,400493435-191827,400493435
+LRN,"POTOMAC STRATEGIC ON BEHALF OF K12, INC",Government Affairs,US,2022,Q3,https://lda.senate.gov/filings/public/filing/d4d7c4ea-5ec9-4534-aca8-6fcfbb760514/print/,5000,,,,191827,400493435,400493435-191827,400493435
+LRN,"POTOMAC STRATEGIC ON BEHALF OF K12, INC",Government Affairs,US,2022,Q4,https://lda.senate.gov/filings/public/filing/55fb26af-165e-4700-a9e1-973f408216fe/print/,5000,,,,191827,400493435,400493435-191827,400493435
+LRN,STRIDE INC,Education,US,2022,Q2,https://lda.senate.gov/filings/public/filing/f2705ba0-59e6-4067-bb20-45ab94aa55b5/print/,110000,,,,200231,401103834,401103834-200231,401103834
+LRN,STRIDE INC,Education,US,2022,Q3,https://lda.senate.gov/filings/public/filing/9a566cc6-4713-444a-841a-29389feb469a/print/,110000,,,,200231,401103834,401103834-200231,401103834
+LRN,STRIDE INC,Education,US,2022,Q4,https://lda.senate.gov/filings/public/filing/fdef44a6-dc2b-4630-9770-83fd0cea924c/print/,110000,,,,200231,401103834,401103834-200231,401103834

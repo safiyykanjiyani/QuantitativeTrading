@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+MSGE,MSGN HOLDINGS L.P.,Media company,US,2022,Q2,https://lda.senate.gov/filings/public/filing/26f46ad7-6fc5-46aa-9dc0-23a8840b49fd/print/,20000,,,,173150,86196,86196-173150,36548
+MSGE,MSGN HOLDINGS L.P.,Media company,US,2022,Q3,https://lda.senate.gov/filings/public/filing/2d0f3a73-dee7-4020-ad24-0a3dfb7b13f2/print/,30000,,,,173150,86196,86196-173150,36548
+MSGE,MSGN HOLDINGS L.P.,Media company,US,2022,Q4,https://lda.senate.gov/filings/public/filing/ec77b646-84e4-40f6-8e87-ba0294da258b/print/,30000,,,,173150,86196,86196-173150,36548

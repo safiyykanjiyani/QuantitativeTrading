@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+RAMP,LIVERAMP HOLDINGS INC.,Data Connection,US,2022,Q2,https://lda.senate.gov/filings/public/filing/a4ef3e53-8131-4677-958c-5ddea06b11f4/print/,60000,,,,126080,18978,18978-126080,30471
+RAMP,LIVERAMP HOLDINGS INC.,Data Connection,US,2022,Q3,https://lda.senate.gov/filings/public/filing/5cdc515d-edf9-4736-87a2-87e13e717bbb/print/,60000,,,,126080,18978,18978-126080,30471
+RAMP,LIVERAMP HOLDINGS INC.,Data Connection,US,2022,Q4,https://lda.senate.gov/filings/public/filing/66adbce4-e66c-4f85-87d9-6bd0564289ff/print/,60000,,,,126080,18978,18978-126080,30471

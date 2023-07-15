@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+RDNT,"RADNET, INC.",Radiology Provider,US,2022,Q2,https://lda.senate.gov/filings/public/filing/2d964687-b2b0-4e28-8b7f-8040a804f411/print/,30000,,,,210151,400459252,400459252-210151,400459252
+RDNT,"RADNET, INC.",Radiology Provider,US,2022,Q3,https://lda.senate.gov/filings/public/filing/0c42a7e5-50c4-4419-a8d7-e0d6c11f2258/print/,30000,,,,210151,400459252,400459252-210151,400459252
+RDNT,"RADNET, INC.",Radiology Provider,US,2022,Q4,https://lda.senate.gov/filings/public/filing/eb3f7dd5-f06a-405a-8abc-2b5ec97c6d52/print/,30000,,,,210151,400459252,400459252-210151,400459252

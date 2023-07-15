@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+HNI,HNI CORPORATION,"Manufacturing, workplace furnishings, residential building products",US,2023,Q1,https://lda.senate.gov/filings/public/filing/a55d78c0-efb4-43b4-983c-cf5b57566711/print/,97000,,,,54377,401107305,401107305-54377,
+HNI,HNI CORPORATION,Furniture manufacturer,US,2022,Q2,https://lda.senate.gov/filings/public/filing/06aa6d01-2911-4b50-b6a2-ce23f106bc1c/print/,20000,,,,182420,307114,307114-182420,38323
+HNI,HNI CORPORATION,Furniture manufacturer,US,2022,Q3,https://lda.senate.gov/filings/public/filing/a501af07-3314-4d2c-abb9-9ca04c6dc26f/print/,20000,,,,182420,307114,307114-182420,38323

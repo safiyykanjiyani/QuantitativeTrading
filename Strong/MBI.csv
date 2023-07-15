@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+MBI,NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION,finance/lending,US,2022,Q2,https://lda.senate.gov/filings/public/filing/7a1c7b59-0981-4de7-b263-9d5a90f633c0/print/,130000,,,,164964,70175,70175-164964,30174
+MBI,NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION,finance/lending,US,2022,Q3,https://lda.senate.gov/filings/public/filing/3f51a714-a0d5-4429-a930-8f13662712a9/print/,130000,,,,164964,70175,70175-164964,30174
+MBI,NATIONAL PUBLIC FINANCE GUARANTEE CORPORATION,finance/lending,US,2022,Q4,https://lda.senate.gov/filings/public/filing/593c15f9-9298-4f7f-b167-20527bb5c991/print/,130000,,,,164964,70175,70175-164964,30174

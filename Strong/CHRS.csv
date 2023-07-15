@@ -1,0 +1,13 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+CHRS,"COHERUS BIOSCIENCES, INC",pharmaceutical development,US,2022,Q2,https://lda.senate.gov/filings/public/filing/4509a551-f1a5-419c-adbd-bedd8d03548f/print/,37500,,,,51323,401106604,401106604-51323,
+CHRS,"COHERUS BIOSCIENCES, INC",pharmaceutical development,US,2022,Q3,https://lda.senate.gov/filings/public/filing/9ab24724-8571-4600-9442-0a23d2e5bc94/print/,45000,,,,51323,401106604,401106604-51323,
+CHRS,"COHERUS BIOSCIENCES, INC",pharmaceutical development,US,2022,Q4,https://lda.senate.gov/filings/public/filing/95b67cba-7372-41e7-a07d-c111aa14e271/print/,45000,,,,51323,401106604,401106604-51323,
+CHRS,"COHERUS BIOSCIENCES, INC.",,US,2022,Q2,https://lda.senate.gov/filings/public/filing/b470b292-4817-4261-b1c7-572244db5c08/print/,,250000,,,200183,401103810,401103810-200183,401103810
+CHRS,"COHERUS BIOSCIENCES, INC.",,US,2022,Q3,https://lda.senate.gov/filings/public/filing/30808759-77db-481f-882e-f27df0c3c2bf/print/,,250000,,,200183,401103810,401103810-200183,401103810
+CHRS,"COHERUS BIOSCIENCES, INC.",,US,2022,Q4,https://lda.senate.gov/filings/public/filing/efc465c4-1253-4894-9b99-517ffd8c30db/print/,,275000,,,200183,401103810,401103810-200183,401103810
+CHRS,"COHERUS BIOSCIENCES, INC",Biosimilar manufacturer.,US,2022,Q2,https://lda.senate.gov/filings/public/filing/e1d7d760-3000-4ca9-9e6d-49c4cb204ff4/print/,50000,,,,206636,72053,72053-206636,35843
+CHRS,"COHERUS BIOSCIENCES, INC",Biosimilar manufacturer.,US,2022,Q3,https://lda.senate.gov/filings/public/filing/f508e4a7-aa7b-4736-8ca5-8f6a06a24c22/print/,40000,,,,206636,72053,72053-206636,35843
+CHRS,"COHERUS BIOSCIENCES, INC",Biosimilar manufacturer.,US,2022,Q4,https://lda.senate.gov/filings/public/filing/1198442e-b4e4-4203-b8f6-85c3319cd2b5/print/,40000,,,,206636,72053,72053-206636,35843
+CHRS,"COHERUS BIOSCIENCES, INC.",Biologics manufacturer,US,2022,Q2,https://lda.senate.gov/filings/public/filing/baa08337-178d-401e-9792-d1391c6b441e/print/,10000,,,,210107,1182,1182-210107,31748
+CHRS,"COHERUS BIOSCIENCES, INC.",Biologics manufacturer,US,2022,Q3,https://lda.senate.gov/filings/public/filing/0e2bf8f0-1991-4dcb-a4d7-4ffa9d146ce4/print/,10000,,,,210107,1182,1182-210107,31748
+CHRS,"COHERUS BIOSCIENCES, INC.",Biologics manufacturer,US,2022,Q4,https://lda.senate.gov/filings/public/filing/f0d943ae-da83-4ce3-9029-664fd0542560/print/,10000,,,,210107,1182,1182-210107,31748

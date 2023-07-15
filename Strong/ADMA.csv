@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+ADMA,"ADMA BIOLOGICS, INC.",Biopharmaceutical company,US,2022,Q2,https://lda.senate.gov/filings/public/filing/cb16520b-758b-4d1d-97e6-a94cacdf078e/print/,10000,,,,203897,2194,2194-203897,32825
+ADMA,"ADMA BIOLOGICS, INC.",Biopharmaceutical company,US,2022,Q3,https://lda.senate.gov/filings/public/filing/01977940-c0a9-41c2-bc8b-f414af4435d5/print/,10000,,,,203897,2194,2194-203897,32825
+ADMA,"ADMA BIOLOGICS, INC.",Biopharmaceutical company,US,2022,Q4,https://lda.senate.gov/filings/public/filing/c3b5663c-69d1-4d0c-bb27-6646079dd60e/print/,10000,,,,203897,2194,2194-203897,32825

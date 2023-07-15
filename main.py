@@ -19,20 +19,18 @@ key_api = config['finnhub']['api_key']
 companies = {}
 
 #import ticker csv file
-with open('DWAS-holdings.csv') as csvfile:
+with open('smallcap_strong.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     for line_number, row in enumerate(readCSV):
         if line_number != 0:
             companies[row[0]] = row[1]
 
 #initialize client
-client = StockHistoricalDataClient(api_key, secret_key)
+#client = StockHistoricalDataClient(api_key, secret_key)
 
 year = 2023
 
-
-
-for company, ticker in companies.items():
+for ticker, company in companies.items():
     #go through tickers of companies
     symbol = ticker
 
@@ -62,9 +60,6 @@ for company, ticker in companies.items():
         #for every stock, create a csv file with the stock data
     except:
         pass
-    
-    print(lobbying_data)
-    print(lobbying_data['data'] == [])
 
     if lobbying_data['data'] != []:
         keys = lobbying_data["data"][0].keys()

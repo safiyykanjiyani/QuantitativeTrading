@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+GOEV,CANOO INC.,Manufacturer of electric vehicles.,US,2022,Q2,https://lda.senate.gov/filings/public/filing/6beb9355-f655-4bff-9a8a-568c6ab7079e/print/,60000,,,,213691,293335,293335-213691,37338
+GOEV,CANOO INC.,Manufacturer of electric vehicles.,US,2022,Q3,https://lda.senate.gov/filings/public/filing/d2945ef4-dbd5-4c09-b8da-6c75906610b8/print/,60000,,,,213691,293335,293335-213691,37338
+GOEV,CANOO INC.,Manufacturer of electric vehicles.,US,2022,Q4,https://lda.senate.gov/filings/public/filing/c9ef2123-75fe-4fe9-84da-50ad747bcad6/print/,60000,,,,213691,293335,293335-213691,37338

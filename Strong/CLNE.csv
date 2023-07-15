@@ -1,0 +1,7 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+CLNE,CLEAN ENERGY,Clean Energy,US,2022,Q2,https://lda.senate.gov/filings/public/filing/256dd9bb-cb64-4777-9aba-640b6fa76b39/print/,80000,,,,172401,84456,84456-172401,36476
+CLNE,CLEAN ENERGY,Clean Energy,US,2022,Q3,https://lda.senate.gov/filings/public/filing/cfc3b32b-7a3b-4a98-a1b3-1cab9cc8acd9/print/,80000,,,,172401,84456,84456-172401,36476
+CLNE,CLEAN ENERGY,Clean Energy,US,2022,Q4,https://lda.senate.gov/filings/public/filing/9bef22c7-f5ea-46e3-a27c-476f19bdf773/print/,80000,,,,172401,84456,84456-172401,36476
+CLNE,CLEAN ENERGY FUELS,Provider of natural gas for transportation usage,US,2022,Q2,https://lda.senate.gov/filings/public/filing/6a262790-8c4c-4543-96a5-28ba8e7bfe15/print/,60000,,,,209487,313271,313271-209487,39128
+CLNE,CLEAN ENERGY FUELS,Provider of natural gas for transportation usage,US,2022,Q3,https://lda.senate.gov/filings/public/filing/54eac32e-4319-4bfb-9967-bd9c4ce70152/print/,60000,,,,209487,313271,313271-209487,39128
+CLNE,CLEAN ENERGY FUELS,Provider of natural gas for transportation usage,US,2022,Q4,https://lda.senate.gov/filings/public/filing/2d4ae29e-04bb-4b80-9d6b-40dec450c356/print/,60000,,,,209487,313271,313271-209487,39128

@@ -1,0 +1,4 @@
+symbol,name,description,country,year,period,documentUrl,income,expenses,postedName,date,clientId,registrantId,senateId,houseRegistrantId
+CERS,CERUS CORPORATION,,US,2022,Q2,https://lda.senate.gov/filings/public/filing/66bf525f-33ba-4102-891b-764a25172f75/print/,40000,,,,114759,10800,10800-114759,31822
+CERS,CERUS CORPORATION,,US,2022,Q3,https://lda.senate.gov/filings/public/filing/63aabdf4-24aa-4970-b1ad-504a5b5f6e75/print/,40000,,,,114759,10800,10800-114759,31822
+CERS,CERUS CORPORATION,,US,2022,Q4,https://lda.senate.gov/filings/public/filing/cb57ca4f-8e6f-433c-a17e-820f19ea77ad/print/,40000,,,,114759,10800,10800-114759,31822
